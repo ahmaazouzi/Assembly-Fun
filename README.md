@@ -12,6 +12,8 @@ Sample programs written in At&T Assembly, mostly 32-bit.
 * Hello World 32/64bit - A simple hello world.
 * [RepeatText](https://github.com/ikurek/Assembly-Fun/tree/master/RepeatText) - Enter a piece of text, and computer will print the same. Neat, huh?
 * [Palindrome](https://github.com/ikurek/Assembly-Fun/tree/master/Palindrome) - Enter a word, and You will find out if it's a palindrome or not.
+* [ToUpperCase](https://github.com/ikurek/Assembly-Fun/tree/master/ToUpperCase) - Convert a word to upper case.
+* [ToLowerCase](https://github.com/ikurek/Assembly-Fun/tree/master/ToLowerCase) - Convert a word to lower case, duh.
 
 # Random cat image:
 ![It's totally random, yaaaay!](http://thecatapi.com/api/images/get?format=src)
