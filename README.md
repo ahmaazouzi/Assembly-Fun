@@ -14,6 +14,7 @@ Sample programs written in At&T Assembly, mostly 32-bit.
 * [Palindrome](https://github.com/ikurek/Assembly-Fun/tree/master/Palindrome) - Enter a word, and You will find out if it's a palindrome or not.
 * [ToUpperCase](https://github.com/ikurek/Assembly-Fun/tree/master/ToUpperCase) - Convert a word to upper case.
 * [ToLowerCase](https://github.com/ikurek/Assembly-Fun/tree/master/ToLowerCase) - Convert a word to lower case, duh.
+* [ToLowerCase](https://github.com/ikurek/Assembly-Fun/tree/master/Reverse) - Reverse a hardcoded text.
 
-# Random cat image:
-![It's totally random, yaaaay!](http://thecatapi.com/api/images/get?format=src)
+# Random cat image (changes every commit):
+![It's changes with every commit!](http://thecatapi.com/api/images/get?format=src)
