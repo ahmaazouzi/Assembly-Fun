@@ -15,6 +15,8 @@ Sample programs written in At&T Assembly, mostly 32-bit.
 * [ToUpperCase](https://github.com/ikurek/Assembly-Fun/tree/master/ToUpperCase) - Convert a word to upper case.
 * [ToLowerCase](https://github.com/ikurek/Assembly-Fun/tree/master/ToLowerCase) - Convert a word to lower case, duh.
 * [Reverse](https://github.com/ikurek/Assembly-Fun/tree/master/Reverse) - Reverse a hardcoded text.
+* [Fibbonacci](https://github.com/ikurek/Assembly-Fun/tree/master/Fibbonacci) - Count n-th Fibbonacci number.
+* [ASMFromC](https://github.com/ikurek/Assembly-Fun/tree/master/ASMFromC) - Example of calling ASM function from C++ code.
 
 # Random cat image (changes every commit):
 ![It's changes with every commit!](http://thecatapi.com/api/images/get?format=src)
